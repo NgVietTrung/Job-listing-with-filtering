@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/job-listing-with-filtering/static/css/main.bd3a9b80.chunk.css",
+    "main.js": "/job-listing-with-filtering/static/js/main.db7950f1.chunk.js",
+    "main.js.map": "/job-listing-with-filtering/static/js/main.db7950f1.chunk.js.map",
+    "runtime-main.js": "/job-listing-with-filtering/static/js/runtime-main.a73097ec.js",
+    "runtime-main.js.map": "/job-listing-with-filtering/static/js/runtime-main.a73097ec.js.map",
+    "static/js/2.4a855f1a.chunk.js": "/job-listing-with-filtering/static/js/2.4a855f1a.chunk.js",
+    "static/js/2.4a855f1a.chunk.js.map": "/job-listing-with-filtering/static/js/2.4a855f1a.chunk.js.map",
+    "index.html": "/job-listing-with-filtering/index.html",
+    "static/css/main.bd3a9b80.chunk.css.map": "/job-listing-with-filtering/static/css/main.bd3a9b80.chunk.css.map",
+    "static/js/2.4a855f1a.chunk.js.LICENSE.txt": "/job-listing-with-filtering/static/js/2.4a855f1a.chunk.js.LICENSE.txt",
+    "static/media/account.0d69fb80.svg": "/job-listing-with-filtering/static/media/account.0d69fb80.svg",
+    "static/media/eyecam-co.b194c193.svg": "/job-listing-with-filtering/static/media/eyecam-co.b194c193.svg",
+    "static/media/faceit.56d96c16.svg": "/job-listing-with-filtering/static/media/faceit.56d96c16.svg",
+    "static/media/insure.2f79d054.svg": "/job-listing-with-filtering/static/media/insure.2f79d054.svg",
+    "static/media/loop-studios.4fc63e45.svg": "/job-listing-with-filtering/static/media/loop-studios.4fc63e45.svg",
+    "static/media/manage.6e27d082.svg": "/job-listing-with-filtering/static/media/manage.6e27d082.svg",
+    "static/media/myhome.1fbb23f9.svg": "/job-listing-with-filtering/static/media/myhome.1fbb23f9.svg",
+    "static/media/photosnap.a018ec45.svg": "/job-listing-with-filtering/static/media/photosnap.a018ec45.svg",
+    "static/media/shortly.7a8783c7.svg": "/job-listing-with-filtering/static/media/shortly.7a8783c7.svg",
+    "static/media/the-air-filter-company.3d93a50f.svg": "/job-listing-with-filtering/static/media/the-air-filter-company.3d93a50f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a73097ec.js",
+    "static/js/2.4a855f1a.chunk.js",
+    "static/css/main.bd3a9b80.chunk.css",
+    "static/js/main.db7950f1.chunk.js"
+  ]
+}
