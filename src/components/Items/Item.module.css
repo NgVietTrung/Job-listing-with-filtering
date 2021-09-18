@@ -1,0 +1,16 @@
+.item {
+	display: flex;
+	justify-content: space-between;
+	padding: 0 4rem;
+	position: relative;
+}
+
+.item-active {
+	border-left: 7px solid hsl(180, 29%, 50%);
+}
+
+@media screen and (max-width: 850px) {
+	.item {
+		flex-direction: column;
+	}
+}

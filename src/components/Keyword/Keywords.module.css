@@ -1,0 +1,33 @@
+.key {
+	display: flex;
+	font-size: 1.6rem;
+	color: hsl(180, 29%, 50%);
+	font-weight: 700;
+	margin: 1rem 0;
+}
+
+.key-name {
+	font-size: 1.4rem;
+	padding: 10px 8px;
+	color: hsl(180, 29%, 50%);
+	background-color: hsl(180, 52%, 96%);
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.key-btn {
+	background-color: hsl(180, 29%, 50%);
+	border: none;
+	color: hsl(180, 31%, 95%);
+	font-weight: 700;
+	font-size: 1.6rem;
+	padding: 8px 12px;
+	margin-right: 1.5rem;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	cursor: pointer;
+}
+
+.key-btn:hover {
+	background-color: hsl(180, 14%, 20%);
+}

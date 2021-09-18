@@ -1,0 +1,35 @@
+.key {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	width: 50%;
+	font-size: 2rem;
+	font-weight: 700;
+	padding: 4rem 0;
+}
+
+.key-item {
+	padding: 10px 8px;
+	color: hsl(180, 29%, 50%);
+	background-color: hsl(180, 52%, 96%);
+	border-radius: 2px;
+	margin: 0.5rem 0.7rem;
+	cursor: pointer;
+	border: none;
+	font-size: 1.4rem;
+	font-weight: 700;
+}
+
+.key-item:hover {
+	color: hsl(180, 31%, 95%);
+	background-color: hsl(180, 29%, 50%);
+}
+
+@media screen and (max-width: 850px) {
+	.key {
+		justify-content: flex-start;
+		width: 100%;
+		padding: 2rem 0;
+	}
+}
